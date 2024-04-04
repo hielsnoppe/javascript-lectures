@@ -1,9 +1,14 @@
 # JavaScript Lectures
 
-Herunterladen:
+Download:
 
-    $ git clone https://github.com/hielsnoppe/javascript-lectures.git
+    $ git clone YOUR_FORKED_REPOSITORY_URL
+    $ cd javascript-lectures/exercises/
 
-Aktualisieren:
+Install dependencies:
 
-    $ git pull
+    $ npm install
+
+Run the tests:
+
+    $ npm test
